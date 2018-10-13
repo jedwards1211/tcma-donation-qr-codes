@@ -1,6 +1,6 @@
 {
   "name": "tcma-donation-qr-codes",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.2.0",
@@ -26,5 +26,16 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "A simple page I whipped up to create QR code links to TCMA donation pages",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedwards1211/tcma-donation-qr-codes.git"
+  },
+  "author": "Andy Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jedwards1211/tcma-donation-qr-codes/issues"
+  },
+  "homepage": "https://github.com/jedwards1211/tcma-donation-qr-codes#readme"
 }
